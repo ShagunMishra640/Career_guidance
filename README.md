@@ -2,19 +2,19 @@ CareerPath — AI-Driven Career Guidance App
 
 CareerPath is a professional-grade, self-contained career exploration engine. It helps users discover their ideal career paths using the RIASEC (Holland Codes) psychological framework and provides real-time market data through global job feed APIs.
 
-🚀 Key Features
+ Key Features
 
-RIASEC Personality Assessment: A built-in 12-question quiz that calculates your Holland Code (Realistic, Investigative, Artistic, Social, Enterprising, Conventional).
+1.RIASEC Personality Assessment: A built-in 12-question quiz that calculates your Holland Code (Realistic, Investigative, Artistic, Social, Enterprising, Conventional).
 
-Client-Side Recommendation Engine: Matches your personality profile to specific career clusters using a local logic engine.
+2.Client-Side Recommendation Engine: Matches your personality profile to specific career clusters using a local logic engine.
 
-Global Job Market Explorer: Fetches live job opportunities using the Jobicy Open API (No key required) with optional support for Adzuna.
+3.Global Job Market Explorer: Fetches live job opportunities using the Jobicy Open API (No key required) with optional support for Adzuna.
 
-Smart Redirects: Avoids broken link errors by intelligently constructing Google Search queries for job details, ensuring users always find up-to-date information.
+4.Smart Redirects: Avoids broken link errors by intelligently constructing Google Search queries for job details, ensuring users always find up-to-date information.
 
-Privacy-First Persistence: Saves your "Career Roadmap" using localStorage. No accounts, no backend, and no data leaves your browser.
+5.Privacy-First Persistence: Saves your "Career Roadmap" using localStorage. No accounts, no backend, and no data leaves your browser.
 
-Modern Responsive Design: Fully mobile-responsive UI built with Tailwind CSS and Lucide icons.
+6.Modern Responsive Design: Fully mobile-responsive UI built with Tailwind CSS and Lucide icons.
 
 🛠️ Tech Stack
 
